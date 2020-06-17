@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InstaChow</string>
+    <string name="slogan"> Welcome to InstaChow "\n"Sign In and Order Your Meal "\n"Open for all Students and staffs </string>
+    <string name="title_activity_main">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_title">Are you sure you want to Logout ?</string>
+    <string name="dialog_popup">   InstaChow Restaurant</string>
+    <string name="ok" />
+    <string name="cancel" />
+    <string name="welcome_to_instachow">Welcome to InstaChow</string>
+    <string name="s11145360_student_usp_ac_fj">s11145360@student.usp.ac.fj</string>
+    <string name="add_account">Add Account</string>
+
+
+</resources>
